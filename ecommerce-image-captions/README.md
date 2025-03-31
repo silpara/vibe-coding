@@ -16,7 +16,7 @@ This application generates detailed product captions for e-commerce images using
 1. Install [Ollama](https://ollama.ai/) on your Windows system
 2. Pull the Gemma model:
    ```bash
-   ollama pull gemma
+   ollama pull gemma3:4b
    ```
 3. Python 3.8 or higher
 
